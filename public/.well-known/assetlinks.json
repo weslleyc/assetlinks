@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "br.com.opus.poc_opus",
+      "package_name": "br.com.opus.oob.pixsample",
       "sha256_cert_fingerprints": ["60:A9:CB:BB:B1:77:57:11:B0:7E:B8:04:1F:80:06:00:62:13:34:3D:8B:3E:26:61:16:D6:B6:7F:0B:CF:13:74"]
     }
   },
@@ -11,7 +11,7 @@
     "relation": ["delegate_permission/common.use_credentials"],
     "target": {
       "namespace": "android_app",
-      "package_name": "br.com.opus.poc_opus",
+      "package_name": "br.com.opus.oob.pixsample",
       "sha256_cert_fingerprints": ["60:A9:CB:BB:B1:77:57:11:B0:7E:B8:04:1F:80:06:00:62:13:34:3D:8B:3E:26:61:16:D6:B6:7F:0B:CF:13:74"]
     }
   }
